@@ -12,6 +12,7 @@ Hola muy buenas a todos, soy Lucas Jimenez y tengo 21 años y actualmente soy es
 
 - 📧 Email: [Lucasjimnez2004@gmal.com](mailto:Lucasjimnez2004@gmail.com)
 - 📱 +54 3855150575
+- 💼 https://www.linkedin.com/in/lucas-jimenez-a30348249/
 
 ## 💡 Habilidades Blandas
 
