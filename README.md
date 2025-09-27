@@ -15,10 +15,12 @@ Hola muy buenas a todos, soy Lucas Jimenez y tengo 21 años y actualmente soy es
 
 ## 💡 Habilidades Blandas
 
-* Comunicación efectiva y trabajo en equipo.
-* Adaptabilidad y apertura al aprendizaje constante.
+* Trabajo en equipo.
+* Comunicación efectiva para entender de manera profunda las necesidades o ideas de otros.
+* Capacidad para adaptarme y aprender constantemente.
 * Organización y gestión del tiempo.
-* Resolución de problemas y pensamiento crítico.
+* Responsable, educado y buenos habitos
+* Pensamiento crítico para aportar ideas nuevas y originales para resolver problemas.
 * Proactividad e iniciativa en proyectos.
-
+* Empatía para comprender y ponerse en el lugar de los demás.
 
