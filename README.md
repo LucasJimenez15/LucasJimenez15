@@ -8,7 +8,7 @@ Hola muy buenas a todos, soy Lucas Jimenez y tengo 21 años y actualmente soy es
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
 
-## Contactame
+## 📩 Contactame
 
 - 📧 Email: [Lucasjimnez2004@gmal.com](mailto:Lucasjimnez2004@gmail.com)
 - 📱 +54 3855150575
