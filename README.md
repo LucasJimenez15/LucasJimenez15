@@ -22,8 +22,3 @@ Hola muy buenas a todos, soy Lucas Jimenez y tengo 21 años y actualmente soy es
 * Proactividad e iniciativa en proyectos.
 
 
-## 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub de Lucas Jimenez](https://github-readme-stats.vercel.app/api?username=Lucasjimenez15&show_icons=true&theme=radical)
-
-
