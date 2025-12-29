@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Hola muy buenas a todos, soy Lucas Jimenez y tengo 21 años y actualmente soy estudiante avanzado de la carrera de Programador Universitario en la Universidad Nacional de Santiago del Estero. Soy una persona con muchas ganas de aprender todos los dias algo mas sobre informatica y me puedo destacar en el dia a dia con mis conocimientos.
 
 ## Tecnologías y Herramientas
